@@ -1,0 +1,13 @@
+opencv-python
+easyocr
+numpy
+pandas
+pillow
+matplotlib
+requests
+schedule
+plyer
+fuzzywuzzy
+python-Levenshtein
+ipywidgets
+pymongo
